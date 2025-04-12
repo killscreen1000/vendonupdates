@@ -1,2 +1,1 @@
 2173.0.home_server.250412-0315
-https://github.com/killscreen1000/vendonupdates/releases/download/Alpha/VendonHomeServer.exe
