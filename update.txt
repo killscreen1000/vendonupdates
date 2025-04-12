@@ -1,2 +1,2 @@
-2173.0.home_server.250412-0314
-https://mega.nz/file/UT01HbYb#pnT2pGsDwVwh8dTJnBJ7aL6LlU3e0TVeT7BOBFzbzP0
+2173.0.home_server.250412-0315
+https://github.com/killscreen1000/vendonupdates/releases/download/Alpha/VendonHomeServer.exe
